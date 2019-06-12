@@ -10,6 +10,7 @@ body {
   color: #777;
   background: #777;
   font-size: 16pt; 
+  line-height: 1;
 }
 
 
@@ -34,12 +35,12 @@ section {
 }
 
 
-#full {
+.full {
   background-color: #ebebeb;
   width: 495px;
   
 }
-#article {
+.article {
   background-color: #777;
   color: #ebebeb;
   width: 475px;
